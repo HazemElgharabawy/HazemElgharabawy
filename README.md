@@ -1,4 +1,5 @@
 ## Hi there 👋
+A highly enthusiastic electronics engineering candidate with extensive knowledge in the field of electronics. Looking to increase my knowledge, skill and firsthand experience as an electronics engineer and to utilize my skills in a renowned organization
 
 <!--
 **HazemElgharabawy/HazemElgharabawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
